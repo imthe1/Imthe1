@@ -7,7 +7,6 @@ Dit is gemaakt voor het vak IMTHE1.
 
 Gemaakt door
 -------------
-* Peter de Ridder
+* s1079496 Peter de Ridder
 
-Deze app wordt gemaakt in samenwerking met HSleiden en Area071.
 
